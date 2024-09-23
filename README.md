@@ -4,7 +4,7 @@ Name : ADARSH CHOWDARY R
 
 Roll no : 212223040166
 
-Date of experiment : 12-08-2024
+Date of experiment : 12-08-2024 
 
 ```
 ## Aim: To Write and execute ALP on fundamental arithmetic and logical operations
